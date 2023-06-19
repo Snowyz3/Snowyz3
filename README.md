@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 [![Snowyz3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snowyz3)](https://github.com/Snowyz3/github-readme-stats)
 -->
 
-![aa](https://github-readme-stats.vercel.app/api/top-langs/?username=Snowyz3&layout=compact)
+I'm a final year computer science student. I'm a passionate learner who's always willing to learn new skills and improve my current onces. 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snowyz3&layout=compact)
