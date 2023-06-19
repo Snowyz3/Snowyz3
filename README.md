@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Snowyz3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snowyz3)](https://github.com/Snowyz3/github-readme-stats)
 -->
 
-I'm a final year computer science student. I'm a passionate learner who's always willing to learn new skills and improve my current onces. 
-<br/>
+I'm a final year computer science student. I'm a passionate learner who's always willing to learn new skills and improve my current onces.   
 
+<p align=center> #Github Stats </p>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snowyz3&layout=compact)
