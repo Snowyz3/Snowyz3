@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 I'm a final year computer science student. I'm a passionate learner who's always willing to learn new skills and improve my current onces.   
 
-<p align=center> ### Github Stats </p>  
+### Github Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snowyz3&layout=compact)
